@@ -1,4 +1,4 @@
-import React, { FC, Dispatch, MouseEvent } from 'react';
+import React, { FC, Dispatch } from 'react';
 import { Event, Action } from '../types';
 import { DELETE_EVENT } from '../actions';
 
